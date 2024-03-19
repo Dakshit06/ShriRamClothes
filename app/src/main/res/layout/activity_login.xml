@@ -85,7 +85,7 @@
             />
 
         <TextView
-            android:id="@+id/forgottenPassTv"
+            android:id="@+id/forgotPassword"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/metropolis_regular"
@@ -136,6 +136,7 @@
 
 
         </LinearLayout>
+
 
 
     </LinearLayout>
